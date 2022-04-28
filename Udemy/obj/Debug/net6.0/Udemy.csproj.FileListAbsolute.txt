@@ -1,0 +1,15 @@
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/bin/Debug/net6.0/Udemy
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/bin/Debug/net6.0/Udemy.deps.json
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/bin/Debug/net6.0/Udemy.runtimeconfig.json
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/bin/Debug/net6.0/Udemy.dll
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/bin/Debug/net6.0/Udemy.pdb
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.csproj.AssemblyReference.cache
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.AssemblyInfoInputs.cache
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.AssemblyInfo.cs
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.csproj.CoreCompileInputs.cache
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.dll
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/refint/Udemy.dll
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.pdb
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/Udemy.genruntimeconfig.cache
+/Users/nnaji/Documents/Development/Playground/Udemy/Udemy/obj/Debug/net6.0/ref/Udemy.dll
